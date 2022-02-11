@@ -13,6 +13,6 @@ I also graduated from CodePath's Android Development online Bootcamp, Fall 2020 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: LinkedIn
 
-<--
+<!--
 - ⚡ Fun fact: 
 
