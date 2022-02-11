@@ -9,9 +9,10 @@ I recently graduated from Practicum by Yandex's Full-stack Web Developer online 
 
 I also graduated from CodePath's Android Development online Bootcamp, Fall 2020 after I successfully completed ther Mobile App Development course in Spring 2020. It is a project-focused Android training in Java to build skills in using popular APIs like MovieDB, Twitter, Instagram and learn how to build custom backend using Parse. The technologies used are: Networking and parsing JSON, AsyncHttpClient, OAuth login, API request and creating models, Activities and Intents, Recyclerview, Heterogenous Recyclerview, Pass data from Fragments to Activity, Sqlite, Room, Parse server, YouTubePlayeyview, Responsive views (portrait and landscape mode), Transitions and animations, UI styling, Debugging with Android Studio, Parceler, Glide, Gihub.
 
-- 🌱 I’m currently learning Cloud DevOps with Udacity's Cloud DevOps Engineer Nanodegree program.
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: LinkedIn
+- 🌱 I’m currently learning AWS, CI/CD in Udacity's Cloud DevOps Engineer Nanodegree program.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: LinkedIn.
+
 
 ## Languages and Tools:
 
