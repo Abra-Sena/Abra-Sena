@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Emiline Senavi Tekpa, a Software Engineer
+### Hi there 👋! I'm A. Emiline Tekpa, a Software Engineer
 
 
 I am a Full-stack web Developer with MERN stack, Android Developer, Women TechMakers Ambassador and Lead of WTM Lomé chapter, Co-Organizer of Google Developers Group Lomé chapter. I speak English, French and Ewe in daily basis.
