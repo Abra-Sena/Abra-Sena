@@ -2,9 +2,11 @@
 
 
 I am mobile and full-stack web Developer, a Women TechMakers Ambassador, and I speak 3 languages: English, French and Ewe. Interested in cloud security and health science, using technologies to improve health care, I am currently working toward a Master's Degree in Computer Science at The University of Tulsa.
+
 I graduated from Berkeley City College with an Associate Degree in CIS, Advanced Computer programing, an Associate Degree in Mathematics from Laney College, and a Certificate of Achievement in Bioscience, Flourescense Microscopy. I hold a Bachelor's degree in Networks and Telecommunications from University Group BK/IAEC (Lomé, Togo) equally evaluated by WES to US credentials.
 
 I completed the TripleTen's, previously called Yandex, Full-stack Web Development Professional training in June 2021. The curriculum provides a wide range of projects based on the following technologies: HTML5, CSS3, Flexbox, Grid layout, BEM methodologies, Media queries, transition and animation in CSS, JavaScript/JSX, DOM elements, Debugging, Git, Github, Figma, Form validation, Object Oriented Programming, Webpack, NPM, React, React components, React Hooks, Node,js, Express.js, Database, MongoDB, Mongoose, Rest API, backend deployment with Micorsoft Azure, Google Cloud Platform.
+
 I also graduated from CodePath's Android Development online Bootcamp, after the completion of their Mobile App Development course. It is a project-focused Android training in Java to build skills in using popular APIs like MovieDB, Twitter, Instagram and learn how to build custom backend using Parse. The technologies used are: Networking and parsing JSON, AsyncHttpClient, OAuth login, API request and creating models, Activities and Intents, Recyclerview, Heterogenous Recyclerview, Pass data from Fragments to Activity, Sqlite, Room, Parse server, YouTubePlayeyview, Responsive views (portrait and landscape mode), Transitions and animations, UI styling, Debugging with Android Studio, Parceler, Glide, Gihub.
 
 - 👯 I’m looking to collaborate on open source projects.
