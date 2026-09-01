@@ -1,6 +1,6 @@
 ### Hello there 👋! I'm Emiline.
 
-I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Ambassador, and an enthusiast of learning new technologies. My recent projects are across **Machine Learning**, **Reinforcement Learning**, **Cybersecurity** (risk assessments, vendor evaluations, security policy drafting), **Bioinformatics**, and **Computational Genetics**.
+I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Ambassador, and an enthusiast of learning new technologies. My recent projects are across **Machine Learning**, **Reinforcement Learning**, **Cybersecurity** (risk and vendor assessments, security policy drafting), **Bioinformatics**, and **Computational Genetics**.
 
 ## Background
 - **Master's Degree in Computer Science**, in-progress at The University of Tulsa
@@ -9,34 +9,54 @@ I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Am
 - **Associate Degree in Mathematics** from Laney College
 - **Certificate of Achievement in Bioscience, Fluorescence Microscopy** from Merritt College
 
+### Spoken Languages
+English, French, and Ewe
+
 ## Bootcamps
 - **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
 - **Womanium Quantum + AI Program**: Quantum Computing and Programming, Quantum Algorithms design and development, Quantum Annealing, Quantum Hardware (QWorld, QBronze, Qiskit, QNickel, Classiq, PennyLane)
 - **Full-stack Software Engineering** program with TripleTen's, previously Yandex (MERN stack)
 - **Android Development** and Mobile App Development with CodePath (Java, Kotlin)
 
-## Spoken Languages
-- English,
-- French, and
-- Ewe
 
-## Collaboration
+### Collaboration
 I’m open to contribute to meaningful and open-source projects.
 
-## Collaboration
+### Contact
 Find me on **LinkedIn**.
 
-## Languages and Tools
-Programming Languages: Java, JavaScript, Kotlin, Python, R, Spring Boot
-**Machine Learning**: Numpy, Pandas, scimitar-learn, PyTorch
-Mobile: Android (Java, Kotlin), Jetpack, MVVM
-Web & Full-stack: React, Node.js, Express, MongoDB, REST APIs, HTML & CSS
-Cybersecurity: NIST CSF, risk assessments, vendor evaluations, IAM, policy drafting
-**Bioinformatics & Computational Genetics**: R, statistical modeling, MATLAB
-Bioscience, Optical Microscopy: fluorescence microscopy
-DevOps & Cloud: GCP, Azure, Git, Docker, Firebase
-Network & IT Operations: Troubleshooting (hardware, software, server), Windows OS upgrades (XP to 7/8/10), Infrastructure & Enterprise support, VoIP
-Other Tools: Postman, JSON processing, Linux environments, Virtualization
+
+## Technologies I work with
+- **Programming Languages**: Java, JavaScript, Kotlin, Python, Spring Boot, R, MATLAB
+- **Machine Learning**: Numpy, Pandas, Scikit-Learn, PyTorch
+- **Mobile, Android**: MVC, MVP, MVVM, Dagger, RxJava, Retrofit, room, ViewModel, LiveData, app life cycle and Google Play compliance
+- **Web & Full-stack**: React, Node.js, Express, MongoDB, SQL, REST APIs, HTML & CSS, Responsive Design
+- **DevOps & Cloud**: GCP, Azure, Git, Docker, Parse, Firebase
+- **Others & Tools**: Figma, Canva, Github, Postman, JSON processing, Linux environments, Virtualization
+
+### Cybersecurity
+- NIST CSF and related series, FIPS, FISMA
+- Risk assessments, vendor security assessments
+- IAM, security policy drafting
+- CIS Critical Security Controls, MITRE ATT&CK, ACSC Strategies
+
+### Bioinformatics & Computational Genetics
+- Gene expression analysis
+- GWAS (Genome-Wide Association Studies)
+- Gene Set Enrichment Analysis (GSEA)
+- RNA-seq, sequence alignment and analysis, PLINK workflows, phylogenetic analysis
+- fMRI (Functional MRI) modeling
+- Phenotype and genotype data integration
+- **Bioscience, Optical Microscopy**:
+  - Phase, Brightfield, and Fluorescence imaging
+  - **Tools**: OLYMPUS microscope (inverted), ZEISS AxioImager, Leica Confocal
+
+### Network & IT Operations
+- Hardware, software, and server troubleshooting
+- Infrastructure & Enterprise support, VoIP
+- Windows OS upgrades (XP to 7/8/10)
+
+
 
 <!---
 []("https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Magnific - Flaticon) <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c42beb01-1026-4a22-a15f-dc35a5d15bdb" />
