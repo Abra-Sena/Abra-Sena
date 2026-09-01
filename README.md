@@ -4,7 +4,7 @@ I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Am
 
 ## Background
 - **Master's Degree in Computer Science**, in-progress at The University of Tulsa
-- **Bachelor's degree in Networks and Telecommunications** from University Group BK/IAEC (Lomé, Togo), equally evaluated by WES to US credentials graduated
+- **Bachelor's degree in Networks and Telecommunications** from University Group BK/IAEC (Lomé, Togo), equally evaluated by WES to US credentials
 - **Associate Degree in CIS, Advanced Computer programing** from Berkeley City College
 - **Associate Degree in Mathematics** from Laney College
 - **Certificate of Achievement in Bioscience, Fluorescence Microscopy** from Merritt College
@@ -13,10 +13,10 @@ I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Am
 English, French, and Ewe
 
 ## Bootcamps
-- **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
-- **Womanium Quantum + AI Program**: Quantum Computing and Programming, Quantum Algorithms design and development, Quantum Annealing, Quantum Hardware (QWorld, QBronze, Qiskit, QNickel, Classiq, PennyLane)
 - **Full-stack Software Engineering** program with TripleTen's, previously Yandex (MERN stack)
 - **Android Development** and Mobile App Development with CodePath (Java, Kotlin)
+- **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
+- **Womanium Quantum + AI Program**: Quantum Computing and Programming, Quantum Algorithms design and development, Quantum Annealing, Quantum Hardware (QWorld, QBronze, Qiskit, QNickel, Classiq, PennyLane)
 
 
 ### Collaboration
