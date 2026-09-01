@@ -1,19 +1,35 @@
-### Hello there 👋! I'm Abravi Emiline Tekpa, call me Emiline.
+### Hello there 👋! I'm Emiline.
 
+I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Ambassador, and an enthusiast of learning new technologies. My recent projects are across **Machine Learning**, **Reinforcement Learning**, **Cybersecurity** (risk assessments, vendor evaluations, security policy drafting), **Bioinformatics**, and **Computational Genetics**.
 
-I am mobile and full-stack web Developer, a Women TechMakers Ambassador, and I speak 3 languages: English, French and Ewe. Interested in cloud security and health science, using technologies to improve health care, I am currently working toward a Master's Degree in Computer Science at The University of Tulsa.
+## Background
+- **Master's Degree in Computer Science**, in-progress at The University of Tulsa
+-  **Bachelor's degree in Networks and Telecommunications** from University Group BK/IAEC (Lomé, Togo), equally evaluated by WES to US credentials graduated
+-  **Associate Degree in CIS, Advanced Computer programing** from Berkeley City College
+-  **Associate Degree in Mathematics** from Laney College
+-  **Certificate of Achievement in Bioscience, Fluorescence Microscopy** from Merritt College
 
-I graduated from Berkeley City College with an Associate Degree in CIS, Advanced Computer programing, an Associate Degree in Mathematics from Laney College, and a Certificate of Achievement in Bioscience, Flourescense Microscopy. I hold a Bachelor's degree in Networks and Telecommunications from University Group BK/IAEC (Lomé, Togo) equally evaluated by WES to US credentials.
+## Bootcamps
+- **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
+- **Womanium Quantum + AI Program**: Quantum Computing and Programming, Quantum Algorithms design and development, Quantum Annealing, Quantum Hardware (QWorld, QBronze, Qiskit, QNickel, Classiq, PennyLane)
+- **Full-stack Software Engineering** program with TripleTen's, previously Yandex (MERN stack)
+- **Android Development** and Mobile App Development with CodePath (Java, Kotlin)
 
-I completed the TripleTen's, previously called Yandex, Full-stack Web Development Professional training in June 2021. The curriculum provides a wide range of projects based on the following technologies: HTML5, CSS3, Flexbox, Grid layout, BEM methodologies, Media queries, transition and animation in CSS, JavaScript/JSX, DOM elements, Debugging, Git, Github, Figma, Form validation, Object Oriented Programming, Webpack, NPM, React, React components, React Hooks, Node,js, Express.js, Database, MongoDB, Mongoose, Rest API, backend deployment with Micorsoft Azure, Google Cloud Platform.
+## Spoken Languages
+- English,
+- French, and
+- Ewe
 
-I also graduated from CodePath's Android Development online Bootcamp, after the completion of their Mobile App Development course. It is a project-focused Android training in Java to build skills in using popular APIs like MovieDB, Twitter, Instagram and learn how to build custom backend using Parse. The technologies used are: Networking and parsing JSON, AsyncHttpClient, OAuth login, API request and creating models, Activities and Intents, Recyclerview, Heterogenous Recyclerview, Pass data from Fragments to Activity, Sqlite, Room, Parse server, YouTubePlayeyview, Responsive views (portrait and landscape mode), Transitions and animations, UI styling, Debugging with Android Studio, Parceler, Glide, Gihub.
+## Collaboration
+I’m open to contribute to meaningful and open-source projects.
 
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: LinkedIn.
+## Collaboration
+Find me on **LinkedIn**.
 
-
+<! --
 ## Languages and Tools:
+
+[]("https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Magnific - Flaticon) <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c42beb01-1026-4a22-a15f-dc35a5d15bdb" />
 
 [](https://developer.android.com)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>
 [](https://aws.amazon.com)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
@@ -36,8 +52,3 @@ I also graduated from CodePath's Android Development online Bootcamp, after the 
 [](https://postman.com)<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 [](https://reactjs.org/)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 [](https://webpack.js.org)<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="70" height="70"/>
-
-
-
-<!--
-- ⚡ Fun fact: 
