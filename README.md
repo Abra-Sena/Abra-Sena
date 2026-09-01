@@ -18,7 +18,6 @@ English, French, and Ewe
 - **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
 - **Womanium Quantum + AI Program**: Quantum Computing and Programming, Quantum Algorithms design and development, Quantum Annealing, Quantum Hardware (QWorld, QBronze, Qiskit, QNickel, Classiq, PennyLane)
 
-
 ### Collaboration
 I’m open to contribute to meaningful and open-source projects.
 
@@ -32,7 +31,7 @@ Find me on **LinkedIn**.
 - **Mobile, Android**: MVC, MVP, MVVM, Dagger, RxJava, Retrofit, room, ViewModel, LiveData, app life cycle and Google Play compliance
 - **Web & Full-stack**: React, Node.js, Express, MongoDB, SQL, REST APIs, HTML & CSS, Responsive Design
 - **DevOps & Cloud**: GCP, Azure, Git, Docker, Parse, Firebase
-- **Others & Tools**: Figma, Canva, Github, Postman, JSON processing, Linux environments, Virtualization
+- **Others & Tools**: Github, GitLab, BitBucket, Postman, Figma, Canva, JSON processing, Linux environments, Virtualization
 
 ### Cybersecurity
 - NIST CSF and related series, FIPS, FISMA
