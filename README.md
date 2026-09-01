@@ -4,10 +4,10 @@ I am mobile and full-stack Software Engineer, ML researcher, Women TechMakers Am
 
 ## Background
 - **Master's Degree in Computer Science**, in-progress at The University of Tulsa
--  **Bachelor's degree in Networks and Telecommunications** from University Group BK/IAEC (Lomé, Togo), equally evaluated by WES to US credentials graduated
--  **Associate Degree in CIS, Advanced Computer programing** from Berkeley City College
--  **Associate Degree in Mathematics** from Laney College
--  **Certificate of Achievement in Bioscience, Fluorescence Microscopy** from Merritt College
+- **Bachelor's degree in Networks and Telecommunications** from University Group BK/IAEC (Lomé, Togo), equally evaluated by WES to US credentials graduated
+- **Associate Degree in CIS, Advanced Computer programing** from Berkeley City College
+- **Associate Degree in Mathematics** from Laney College
+- **Certificate of Achievement in Bioscience, Fluorescence Microscopy** from Merritt College
 
 ## Bootcamps
 - **Google Cloud Career Jumpstart, Professional Cloud Architect**: Load balancing, App development environments with GCP services (Cloud Storage, IAM, Cloud Functions, Pub/Sub), Advanced networking (VPC, IAM roles, Kubernetes), IaC using Terraform
@@ -26,9 +26,19 @@ I’m open to contribute to meaningful and open-source projects.
 ## Collaboration
 Find me on **LinkedIn**.
 
-<! --
-## Languages and Tools:
+## Languages and Tools
+Programming Languages: Java, JavaScript, Kotlin, Python, R, Spring Boot
+**Machine Learning**: Numpy, Pandas, scimitar-learn, PyTorch
+Mobile: Android (Java, Kotlin), Jetpack, MVVM
+Web & Full-stack: React, Node.js, Express, MongoDB, REST APIs, HTML & CSS
+Cybersecurity: NIST CSF, risk assessments, vendor evaluations, IAM, policy drafting
+**Bioinformatics & Computational Genetics**: R, statistical modeling, MATLAB
+Bioscience, Optical Microscopy: fluorescence microscopy
+DevOps & Cloud: GCP, Azure, Git, Docker, Firebase
+Network & IT Operations: Troubleshooting (hardware, software, server), Windows OS upgrades (XP to 7/8/10), Infrastructure & Enterprise support, VoIP
+Other Tools: Postman, JSON processing, Linux environments, Virtualization
 
+<!---
 []("https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Magnific - Flaticon) <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c42beb01-1026-4a22-a15f-dc35a5d15bdb" />
 
 [](https://developer.android.com)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>
